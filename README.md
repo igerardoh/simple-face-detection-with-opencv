@@ -20,4 +20,10 @@ These packages do not contain any GUI functionality. They are smaller and suitab
 ### Usage
 If you want to try this program, you can download this repo and run the [face-detection.py](https://github.com/igerardoh/simple-face-detection-with-opencv/blob/master/face-detection.py) file on your machine. You can also check out a detailed explanation of how this programs work by taking a look at this notebook: [Face Detector](https://nbviewer.jupyter.org/github/igerardoh/simple-face-detection-with-opencv/blob/master/face-detection-explained.ipynb)
 
+![alt text](https://raw.githubusercontent.com/igerardoh/simple-face-detection-with-opencv/master/screenshot.png "Facial detection")
 
+### TO-DO :
+- ~~Define image capture function.~~
+- ~~Face area detection.~~
+- ~~Eyes subarea detection.~~
+- ~~Execute the program.~~
